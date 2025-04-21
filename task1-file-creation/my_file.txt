@@ -1,2 +1,0 @@
-echo "Hello!, This is my first file for shell scripting"
-echo "Hello!, This is my second file for shell scripting"
