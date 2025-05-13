@@ -1,0 +1,9 @@
+Hello there, welcome to the tutorial.
+You should give it a try.
+This line has nothing to change.
+We hope you give your best.
+welcome to the platform, learning it your all.
+Another welcome message without the word.
+This line has the word learning but no welcome.
+Final line to learning a proper welcome and learning again.
+
