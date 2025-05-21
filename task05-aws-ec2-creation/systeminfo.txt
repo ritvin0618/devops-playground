@@ -1,0 +1,48 @@
+
+Host Name:                 EC2AMAZ-RLB2U36
+OS Name:                   Microsoft Windows Server 2022 Datacenter
+OS Version:                10.0.20348 N/A Build 20348
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          EC2
+Registered Organization:   Amazon.com
+Product ID:                00454-60000-00001-AA304
+Original Install Date:     5/21/2025, 3:02:58 AM
+System Boot Time:          5/21/2025, 3:06:38 AM
+System Manufacturer:       Xen
+System Model:              HVM domU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2300 Mhz
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC) Coordinated Universal Time
+Total Physical Memory:     1,024 MB
+Available Physical Memory: 166 MB
+Virtual Memory: Max Size:  2,048 MB
+Virtual Memory: Available: 884 MB
+Virtual Memory: In Use:    1,164 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\EC2AMAZ-RLB2U36
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5055169
+                           [02]: KB5012170
+                           [03]: KB5058385
+                           [04]: KB5058531
+                           [05]: KB5057588
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: AWS PV Network Device
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.31.80.1
+                                 IP address(es)
+                                 [01]: 172.31.84.63
+                                 [02]: fe80::4cf1:7f8:dff:baf4
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
