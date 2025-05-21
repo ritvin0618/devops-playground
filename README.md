@@ -8,3 +8,5 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 02 - File Permissions](./task02-file-permission/)
 - [Task 03 - Network Commands](./task03-network-commands/)
 - [Task 04 - Scripting Task](./task04-scripting-task/)
+- [Task 05 - Aws EC2 Creation](./task05--aws-ec2-creation/)
+
