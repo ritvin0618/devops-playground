@@ -13,3 +13,4 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 07 - Aws EC2 Loadbalancer creation](./task07-aws-s3-ec2-loadbalancer-creation/)
 - [Task 08 - Aws EBS creation](./task08-aws-EBS-creation/)
 - [Task 09 - Aws CI/CD Task](./task09-aws-CI-CD/)
+- [Task 10 - Aws VCS Task](./task10-aws-vcs-task/)
