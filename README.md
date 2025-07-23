@@ -14,3 +14,4 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 08 - Aws EBS creation](./task08-aws-EBS-creation/)
 - [Task 09 - Aws CI/CD Task](./task09-aws-CI-CD/)
 - [Task 10 - Aws VCS Task](./task10-aws-vcs-task/)
+- [Task 11 - AWS Docker commands](./task11-aws-docker-commands/)
