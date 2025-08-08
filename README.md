@@ -16,3 +16,4 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 10 - Aws VCS Task](./task10-aws-vcs-task/)
 - [Task 11 - AWS Docker commands](./task11-aws-docker-commands/)
 - [Task 12 - AWS Docker Task2](./task12-aws-docker-task2/)
+- [Task 13 - AWS Docker Task3](./task13-aws-docker-task3/)
