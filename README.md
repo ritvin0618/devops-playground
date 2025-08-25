@@ -18,3 +18,4 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 12 - AWS Docker Task2](./task12-aws-docker-task2/)
 - [Task 13 - AWS Docker Task3](./task13-aws-docker-task3/)
 - [Task 14 - AWS Kubernetes Task](./task14-aws-kubernetes-task/)
+- [Task 15 - AWS Kubernetes Task2](./task15-aws-Kubernetes-task2/)
