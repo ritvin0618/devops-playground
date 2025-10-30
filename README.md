@@ -19,3 +19,4 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 13 - AWS Docker Task3](./task13-aws-docker-task3/)
 - [Task 14 - AWS Kubernetes Task](./task14-aws-kubernetes-task/)
 - [Task 15 - AWS Kubernetes Task2](./task15-aws-Kubernetes-task2/)
+- [Task 16 - AWS Monitoring Task](./task19-aws-Monitoring Task/)
