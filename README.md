@@ -20,3 +20,7 @@ This repository is for practicing and mastering DevOps skills.
 - [Task 14 - AWS Kubernetes Task](./task14-aws-kubernetes-task/)
 - [Task 15 - AWS Kubernetes Task2](./task15-aws-Kubernetes-task2/)
 - [Task 16 - AWS Monitoring Task](./task19-aws-Monitoring Task/)
+- [Task 17 - AWS Terraform Task](./task17-aws-terraform-task1/)
+- [Task 18 - AWS Terraform Task](./task18-aws-terraform-task2/)
+- [Task 19 - AWS Jenkins Task](./task20-aws-Jenkins-task1/)
+- [Task 20 - AWS Jenkins Task](./task21-aws-Jenkins-task2/)
